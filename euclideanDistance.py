@@ -1,6 +1,6 @@
 import math
 
-points = [(1, 2), (3, 4), (6, 8), (7, 5)]
+points = [(1, 2), (3, 4), (6, 8), (9, 5)]
 
 def euclideanDistance(point1, point2):
     x1, y1 = point1
